@@ -1,5 +1,7 @@
 # Journey to the West / 名侦探孙悟空
 
+Chinese Verison: [中文规则](#Chinese-Rule)
+
 ## Intro
 
 "Journey to the West" is a hidden information card game mixed with [ridiculous JiangHu](https://github.com/meteorode/ridiculous-JiangHu) and [Poker](https://en.wikipedia.org/wiki/Poker) mechanics, based on [the novel with the same name](https://en.wikipedia.org/wiki/Journey_to_the_West).
@@ -36,3 +38,5 @@
 7.  Each player could reveal his/her hidden Char to participate the dual, If so, he/she should either __MEET THE WINNING CONDITION__ or be KO.
 8.  Whenever a player's hand is empty, he/she would be KO,
 9.  The game ends while some player __MEET THE WINNING CONDITION__ or less than or equal to only one player survived.
+
+## Chinese Rule
